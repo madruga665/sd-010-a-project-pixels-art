@@ -3,6 +3,7 @@
 # 🚀️ Projeto realizado no final do bloco 5
 
 ## 💚️ Resultado 💚️
+<img src="./Peek 06-04-2021 18-13.gif">
 <img src="./resultado-do-projeto.png">
 
 ---
