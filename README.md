@@ -7,6 +7,13 @@
 <img src="./resultado-do-projeto.png">
 
 ---
+# Habilidades
+
+- Manipular o DOM
+
+- Manipular o Javascript
+
+---
 
 ## Requisitos Obrigatórios:
 
